@@ -1,0 +1,1 @@
+c language allows manual dynamic linked structures design..

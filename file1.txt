@@ -1,0 +1,140 @@
+#:0
+000allows1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+002c2file1txt1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+003data1file1txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+003dynamic1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+003design1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+005file1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+007hello1file1txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+008implementation1file1txt11file1txt11file1t:1:file1.txt:1: #
+#:0
+008in1file1txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+008inverted1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+008index1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0011language1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0011linked1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0012maps1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0012manual1file3txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0015programming1file1txt11file1txt11file1txt:1:file1.txt:1: #
+#:0
+1:1:file1.txt:1: #
+#:0
+0016quickly1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0018structure1file1txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0018structures2file2txt1file3txt11file1txt11f:1:file1.txt:1: #
+#:0
+0019to1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0022world1file1txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+0022words1file2txt11file1txt11file1txt1:1:file1.txt:1: #
+#:0
+00allows1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+02c1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+03dynamic1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+03design1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+05file1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+08inverted1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+08index1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+011language1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+011linked1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+012maps1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+012manual1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+016quickly1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+018structures2file2txt1file3txt11file1txt1:1:file1.txt:1: #
+#:0
+019to1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+022words1file2txt11file1txt1:1:file1.txt:1: #
+#:0
+0allows1file3txt1:1:file1.txt:1: #
+#:0
+2c1file3txt1:1:file1.txt:1: #
+#:0
+3dynamic1file3txt1:1:file1.txt:1: #
+#:0
+3design1file3txt1:1:file1.txt:1: #
+#:0
+4empty1file2txt1:1:file1.txt:1: #
+#:0
+4emertxe1file2txt1:1:file1.txt:1: #
+#:0
+5file1file2txt1:1:file1.txt:1: #
+#:0
+7hi1file2txt2:1:file1.txt:1: #
+#:0
+8is1file2txt1:1:file1.txt:1: #
+#:0
+11language1file3txt1:1:file1.txt:1: #
+#:0
+11linked1file3txt1:1:file1.txt:1: #
+#:0
+12manual1file3txt1:1:file1.txt:1: #
+#:0
+13not1file2txt1:1:file1.txt:1: #
+#:0
+18structures1file3txt1:1:file1.txt:1: #
+#:0
+19this1file2txt1:1:file1.txt:1: #
+#:0
+allows:1:file3.txt:1: #
+#:2
+c:1:file3.txt:1: #
+#:3
+dynamic:1:file3.txt:1: #
+#:3
+design:1:file3.txt:1: #
+#:4
+empty:1:file2.txt:1: #
+#:4
+emertxe:1:file2.txt:1: #
+#:5
+file:1:file2.txt:1: #
+#:7
+hi:1:file2.txt:2: #
+#:8
+ile1txt1:1:file1.txt:1: #
+#:8
+is:1:file2.txt:1: #
+#:11
+language:1:file3.txt:1: #
+#:11
+linked:1:file3.txt:1: #
+#:12
+manual:1:file3.txt:1: #
+#:13
+not:1:file2.txt:1: #
+#:18
+structures:1:file3.txt:1: #
+#:19
+this:1:file2.txt:1: #
+#:23
+xt1:1:file1.txt:1: #
